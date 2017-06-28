@@ -15,7 +15,7 @@ public class UserInfo {
         System.out.println("Введите, пожалуйста, название города в котором Вы проживаете: ");
         String userCity = sc.nextLine();
 
-        System.out.println("Введите, пожалуйста, Ваш возраст: ");
+        System.  out.println("Введите, пожалуйста, Ваш возраст: ");
         int userAge = sc.nextInt();
         sc.nextLine();
 
